@@ -1,2 +1,2 @@
-# ComuGamers
+# comugamers
 BOT
